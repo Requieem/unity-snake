@@ -27,7 +27,7 @@ public class Moveable : MonoBehaviour
 
     // Hooks
     public UnityEvent<Vector2> Move => m_Hooks?.Move;
-    public Vector2 Direction => m_Hooks?.ComputeDirection(transform, Target) ?? Vector2.zero;
+    public virtual Vector2 Direction => m_Hooks?.ComputeDirection(transform, Target) ?? Vector2.zero;
 
     // State
     public float StateSpeed { get => m_State.Speed; set => m_State.Speed = value; }

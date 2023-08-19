@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 314a584853fe48e498a143f39e7d6b65, type: 3}
+  m_Name: Snake Movement [ Hooks ]
+  m_EditorClassIdentifier: 
+  m_Move:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SpeedChange:
+    m_PersistentCalls:
+      m_Calls: []
+  m_InputActions: {fileID: -944628639613478452, guid: 9300ddfa44312f34db00706547d9f389, type: 3}
