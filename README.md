@@ -30,23 +30,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Requieem/unity-snake">
-    <img src="https://e7.pngegg.com/pngimages/802/349/png-clipart-ouroboros-symbol-snakes-miscellaneous-game.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Requieem/Pong">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Pong.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Unity Snake</h3>
+<h3 align="center">Unity Pong</h3>
 
   <p align="center">
-    A simple reproduction of one of the most famous casual games ever: Snake!
+    A simple reproduction of one of the most famous cult games ever: Pong!
     <br />
-    <a href="https://github.com/Requieem/unity-snake"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Requieem/Pong"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Requieem/unity-snake">View Demo</a>
+    <a href="https://github.com/Requieem/Pong">View Demo</a>
     ·
-    <a href="https://github.com/Requieem/unity-snake/issues">Report Bug</a>
+    <a href="https://github.com/Requieem/Pong/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Requieem/unity-snake/issues">Request Feature</a>
+    <a href="https://github.com/Requieem/Pong/issues">Request Feature</a>
   </p>
 </div>
 
@@ -83,9 +83,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Snake-Screenshot][product-screenshot]](https://im.indiatimes.in/facebook/2018/Aug/snake_game_1533210438.jpg?w=820&h=540&cc=1)
+[![Pong-Screenshot][product-screenshot]](https://upload.wikimedia.org/wikipedia/commons/f/f8/Pong.png)
 
-I obviously do not own the rights for the above image, but let's face the fact that it had to be thrown somewhere on here. This project is basically a clone of the original snake with some unique Unity twists. Its use is mainly focused on showcasing my (if any) abilities in Unity and Csharp Development.
+I obviously do not own the rights for the above image, but let's face the fact that it had to be thrown somewhere on here. This project is basically a clone of the original Pong with some. Its use is mainly focused on showcasing my (if any) abilities in Unity and Csharp Development.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,7 +115,7 @@ Hopefully any machine will be able to run this. Initially, I will only build an 
 1. Clone the repo
    ```sh
    
-   git clone https://github.com/Requieem/unity-snake.git
+   git clone https://github.com/Requieem/Pong.git
 
    ```
 3. Run the executable inside the "Build" folder
@@ -128,7 +128,7 @@ Hopefully any machine will be able to run this. Initially, I will only build an 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Just have fun! It's a simple snake game, not much to say here :)
+Just have fun! It's a simple pong game, not much to say here :)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,12 +137,12 @@ Just have fun! It's a simple snake game, not much to say here :)
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Core Snake Mechanics
+- [ ] Core Pong Mechanics
 - [ ] Simple HUD
 - [ ] Managed Game Flow and persistent game States
 - [ ] Multiplayer
 
-See the [open issues](https://github.com/Requieem/unity-snake) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Requieem/Pong) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,7 +180,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Marco Farace - [@TheFake_MF](https://twitter.com/TheFake_MF) - farace.marco@outlook.it
 
-Project Link: [https://github.com/Requieem/unity-snake](https://github.com/Requieem/unity-snake)
+Project Link: [https://github.com/Requieem/Pong](https://github.com/Requieem/Pong)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,19 +198,19 @@ Project Link: [https://github.com/Requieem/unity-snake](https://github.com/Requi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Requieem/unity-snake.svg?style=for-the-badge
-[contributors-url]: https://github.com/Requieem/unity-snake/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Requieem/unity-snake.svg?style=for-the-badge
-[forks-url]: https://github.com/Requieem/unity-snake/network/members
-[stars-shield]: https://img.shields.io/github/stars/Requieem/unity-snake.svg?style=for-the-badge
-[stars-url]: https://github.com/Requieem/unity-snake/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Requieem/unity-snake.svg?style=for-the-badge
-[issues-url]: https://github.com/Requieem/unity-snake/issues
-[license-shield]: https://img.shields.io/github/license/Requieem/unity-snake.svg?style=for-the-badge
-[license-url]: https://github.com/Requieem/unity-snake/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Requieem/Pong.svg?style=for-the-badge
+[contributors-url]: https://github.com/Requieem/Pong/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Requieem/Pong.svg?style=for-the-badge
+[forks-url]: https://github.com/Requieem/Pong/network/members
+[stars-shield]: https://img.shields.io/github/stars/Requieem/Pong.svg?style=for-the-badge
+[stars-url]: https://github.com/Requieem/Pong/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Requieem/Pong.svg?style=for-the-badge
+[issues-url]: https://github.com/Requieem/Pong/issues
+[license-shield]: https://img.shields.io/github/license/Requieem/Pong.svg?style=for-the-badge
+[license-url]: https://github.com/Requieem/Pong/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/marco-farace/
-[product-screenshot]: https://im.indiatimes.in/facebook/2018/Aug/snake_game_1533210438.jpg?w=820&h=540&cc=1
+[product-screenshot]: https://upload.wikimedia.org/wikipedia/commons/f/f8/Pong.png
 [Unity]: https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white
 [Unity-url]: https://unity.com/
 [VisualStudio]: https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white
